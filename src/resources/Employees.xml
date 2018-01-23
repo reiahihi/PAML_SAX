@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Employees>
+    <Employee id="1">
+        <name>Qatar</name>
+        <age>29</age>
+        <gender>Male</gender>
+        <role>Java Developer</role>
+    </Employee>
+
+    <Employee id="2">
+        <name>Solomon</name>
+        <age>18</age>
+        <gender>Male</gender>
+        <role>C# Developer</role>
+    </Employee>
+
+    <Employee id="3">
+        <name>Paul</name>
+        <age>33</age>
+        <gender>Male</gender>
+        <role>Web Developer</role>
+    </Employee>
+    <Employee id="4">
+        <name>Gates</name>
+        <age>39</age>
+        <gender>Male</gender>
+        <role>Net Developer</role>
+    </Employee>
+
+    <Employee id="5">
+        <name>Karel</name>
+        <age>29</age>
+        <gender>Feale</gender>
+        <role>Tool Developer</role>
+    </Employee>
+
+    <Employee id="6">
+        <name>Johnson</name>
+        <age>44</age>
+        <gender>Male</gender>
+        <role>Database Developer</role>
+    </Employee>
+
+    <Employee id="7">
+        <name>Suk</name>
+        <age>21</age>
+        <gender>Male</gender>
+        <role>Tool Developer</role>
+    </Employee>
+
+    <Employee id="8">
+        <name>Fushi</name>
+        <age>35</age>
+        <gender>Female</gender>
+        <role>Mobile Developer</role>
+    </Employee>
+
+</Employees>
